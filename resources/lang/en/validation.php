@@ -158,6 +158,15 @@ return [
     |
     */
 
-    'attributes' => [],
+    'attributes' => [
+        'first_name' => 'Nome',
+        'last_name' => 'Sobrenome',
+        'cpf' => 'Cpf',
+        'zipcode' => 'Cep',
+        'street' => 'Rua',
+        'number' => 'Número',
+        'state' => 'Estado',
+        'city' => 'Cidade'
+    ],
 
 ];
